@@ -199,9 +199,8 @@ Economically Viable for Coastal Flood Risk Reduction as Sea Levels Rise: A Case 
 
 For questions about the data, methodology, or code implementation, please contact:
 - **Erfan Amini** (ea3246@columbia.edu)
-  - Department of Civil, Environmental, and Ocean Engineering, Stevens Institute of Technology
-  - Center for Climate Systems Research, Columbia University
-  - 
+  - Center for Climate Systems Research, Columbia University, New York City, New York, USA
+
 ## License
 
 This dataset is made available for research and educational purposes. Please contact the authors for commercial use or redistribution.
