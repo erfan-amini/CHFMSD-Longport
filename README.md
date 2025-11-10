@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the computational results and analysis codes for a comprehensive study evaluating the effectiveness of hybrid vegetation-seawall systems in mitigating coastal flooding under present and future sea level rise scenarios. The research focuses on Longport, New Jersey, using Hurricane Sandy as a test case to assess the performance of nature-based solutions integrated with traditional coastal defense structures.
+This repository contains the computational results and analysis codes for a numerical framework evaluating the effectiveness of hybrid vegetation-seawall systems in mitigating coastal flooding under present and future sea level rise scenarios. The research focuses on Longport, New Jersey, using Hurricane Sandy as a test case to assess the performance of nature-based solutions integrated with traditional coastal defense structures.
 
 ## Research Background
 
