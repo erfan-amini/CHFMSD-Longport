@@ -1576,11 +1576,6 @@ For questions about the data, methodology, or code implementation:
 - Affiliation: Center for Climate Systems Research, Climate School, Columbia University
 - Location: New York City, New York, USA
 
-**Reza Marsooli, Ph.D.**
-- Email: rmarsooli@stevens.edu
-- Affiliation: Department of Civil, Environmental, and Ocean Engineering, Stevens Institute of Technology
-- Location: Hoboken, New Jersey, USA
-
 ---
 
 ## License
